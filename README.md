@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AndrePaulGrenon
+- 👀 I’m interested in video game development.
+- 🌱 I’m currently learning the basis of C programmin. 
+- 💞️ I’m looking to collaborate on some projects. 
+- 📫 How to reach me : grenonap@gmail.com
