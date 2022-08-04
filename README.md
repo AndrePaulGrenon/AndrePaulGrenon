@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AndrePaulGrenon
-- 👀 I’m interested in video game development.
-- 🌱 I’m currently learning the basis of C programmin. 
-- 💞️ I’m looking to collaborate on some projects. 
+- 👀 I’m interested in RayTracing, algorythms, software development, and many more. 
+- 🌱 I’m currently finishing to learn the basis of C programmin and building a RayTraceré 
+- 💞️ I’m looking to find a job in a nice work environment. 
 - 📫 How to reach me : grenonap@gmail.com
