@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AndrePaulGrenon
 - 👀 I’m interested in RayTracing, algorythms, software development, and many more. 
-- 🌱 I’m currently finishing to learn the basis of C programmin and building a RayTraceré 
+- 🌱 I’m currently done with learning C programming and building a RayTracer in C. 
 - 💞️ I’m looking to find a job in a nice work environment. 
 - 📫 How to reach me : grenonap@gmail.com
