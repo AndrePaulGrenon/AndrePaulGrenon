@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @AndrePaulGrenon
-- 👀 I’m interested in RayTracing, algorythms, software development, and many more. 
+- 👀 I’m interested in RayTracing, algorythms, software/game development, and many more. 
 - 🌱 I’m currently done with learning C programming and I built a RayTracer in C. 
-- I'm currently learning about C++ and I love it already.
-- 💞️ I’m looking to find a job in a nice work environment in which I can create meaningful apps and projects. 
+- I rebuilt stl containers in C++, created a chat web server in c++. I love the language
+- I Work currently mostly in C++, C# .NET and WPF at Ubisoft Quebec as an Intern
+- 💞️ I’m looking for a full time job in a nice work environment in which I can create meaningful projects. 
 - 📫 How to reach me : grenonap@gmail.com
